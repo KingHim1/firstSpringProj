@@ -1,0 +1,6 @@
+com/hello/persistence/repo/BookRepository.class
+com/hello/config/SecurityConfig.class
+hello/Application.class
+com/hello/web/SimpleController.class
+com/hello/persistence/model/Book.class
+com/hello/web/BookController.class
