@@ -13,7 +13,7 @@ import org.springframework.boot.autoconfigure.domain.EntityScan;
 
 @EnableJpaRepositories("com.hello.persistence.repo")
 @EntityScan("com.hello.persistence.model")
-@SpringBootApplication(scanBasePackages = "com.hello")
+@SpringBootApplication(scanBasePackages = "com.hellogit ")
 public class Application {
 
     public static void main(String[] args) {
